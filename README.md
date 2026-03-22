@@ -38,7 +38,7 @@ Discount effectiveness
 Customer segmentation
 Subscription behaviour
 
-Tools & Technologies
+Tools & Technologies-
 
 Python, 
 SQL, 
@@ -47,7 +47,7 @@ Google Colab,
 Pandas, 
 Data Analysis & EDA
 
-Project Outcomes
+Project Outcomes-
 
 This analysis demonstrates how data analytics can support business decision-making by identifying:
 Customer purchasing patterns
