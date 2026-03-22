@@ -30,7 +30,6 @@ Checking data types
 Preparing the dataset for SQL analysis
 
 2. Data Analysis (SQL)
-
 Business questions were answered using SQL queries executed in BigQuery.
 The analysis focused on understanding:
 Customer spending patterns
@@ -40,7 +39,6 @@ Customer segmentation
 Subscription behaviour
 
 Tools & Technologies
-
 Python, 
 SQL, 
 BigQuery, 
@@ -49,7 +47,6 @@ Pandas,
 Data Analysis & EDA
 
 Project Outcomes
-
 This analysis demonstrates how data analytics can support business decision-making by identifying:
 Customer purchasing patterns
 Revenue-generating customer segments
